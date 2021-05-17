@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 01:03:48 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>お問い合わせ</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 18 May 2021 01:03:48 +0900</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>ご連絡は以下のフォームよりお願いいたします。
+内容によっては返信をご遠慮させていただく場合や諸事情により返信に時間がかかる場合がございますことをご了承ください。
+ お名前:   E-Mail:   内容:   送信  </description>
+    </item>
+    
+  </channel>
+</rss>
